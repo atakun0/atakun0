@@ -14,9 +14,3 @@ AI Algorithms student learning Python, Data Analysis, and Machine Learning.
 **Learning & Tools**
 
 [![My Skills](https://skillicons.dev/icons?i=py,sqlite,git,github,vscode)](https://skillicons.dev)
-
-**Links**
-
-💬 [Telegram](https://t.me/username) · ✉️ [Email](mailto:your@email.com)
-
-</div>
