@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi, I'm Aidar 👋
 
-<!--
-**atakun0/atakun0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Algorithms student learning Python, Data Analysis, and Machine Learning.
 
-Here are some ideas to get you started:
+**Currently:**
+- 📚 Studying ML and mathematical foundations
+- 🐍 Learning Python and Data Analysis tools
+- 💻 Practicing clean code and daily commits
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+
+**Learning & Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=py,sqlite,git,github,vscode)](https://skillicons.dev)
+
+**Links**
+
+💬 [Telegram](https://t.me/username) · ✉️ [Email](mailto:your@email.com)
+
+</div>
